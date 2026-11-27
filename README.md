@@ -4,7 +4,7 @@
 **Lenguaje:** C++  
 **Materia:** Laboratorio de Programación  
 **Curso:** 5to 3ra  
-**Institución:** E.E.S.T. N.º 1 de Vicente López
+**Institución:** E.E.S.T. N.º 1 de Vicente López Docente y Estudiante?
 
 ---
 
