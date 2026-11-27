@@ -5,7 +5,7 @@
     Archivo: src/main.cpp
     Actividad 8: Introducción a POO - Motor de Juego de Naves (Clases, Objetos y Constructores)
     Docente: Mansilla Muñoz York
-    Estudiante: Goya Thiago
+    Estudiante: Goya Thiago ????
     ============================================================================================
 */
 
